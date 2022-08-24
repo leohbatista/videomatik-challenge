@@ -36,11 +36,7 @@ Esse código gera uma exportação dos dados de cada renderização, incluindo o
 python3 challenges/medium.py
 ```
 
-- Nível **Hard** (Não implementado ainda)
-
-```
-python3 challenges/hard.py
-```
+Em ambos os casos, é necessário adicionar os dados de chave de API e demais informações necessárias no final de cada um dos scripts, no local indicado.
 
 
 **OBS:** Para executar cada um dos níveis, é necessário estar com o ambiente virtual habilitado. Para isso, basta usar o seguinte comando n pasta raiz do projeto:
